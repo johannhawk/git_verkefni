@@ -26,3 +26,6 @@
 
 5. Hverjir eru helstu kostir við að nota GIT?
 5A: Greinar eru eitt að bestu kostirnar, og það er líka 'dagbókin' getur ekki verið breytt svo allir geta vitað hvað aðrir hafi gert í github verkefni. GIT er líka open source.
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+6A: Ég finnst ég þarf ekki spá í að breyta hvað þarf commit eða ekki, þótt það sé bara smá texta leiðrétting.
