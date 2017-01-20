@@ -5,3 +5,11 @@
 	pwd
 	mkdir
 1A: Þau leyfa þér að búa til skjöl, líta á skjöl í skránni sem þú ert í og breytir hvaða skrá þú ert í. pwd sýnir hvað er leiðin til skránna sem þú ert í frá rótinni
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+2A: Clone gerir clone af skjala geymslu, git log sýnir 'dagbók' af hvað hefur breyst í skjala geymslunni, git status sýnir skjölin sem þú hefur breytt og hvað þarf enþá að verða klárt, git diff sýnir öll átök sem þurfa að vera leyst áður enn tveir ólíkar útgáfur af skjalageymslum geta sameinast. git checkout leyfir þér að búa til eða fara á milli ólíka útgáfur.
