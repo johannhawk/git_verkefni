@@ -19,3 +19,7 @@
 	b) git diff --staged 
 	c) git diff commit1 commit2
 3A: a) lítir á öll átökin, b) lítir á öll átökin á móti "staged" skjalinu, c) skoðar tvö ólík og munin á þeim áður enn þau sameinast.
+
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+4A: Gerir þig kleyft að auðveldlega ná allar útgáður af einhverri git skjalageymslu.
