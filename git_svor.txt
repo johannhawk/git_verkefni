@@ -13,3 +13,9 @@
 	git diff
 	git checkout
 2A: Clone gerir clone af skjala geymslu, git log sýnir 'dagbók' af hvað hefur breyst í skjala geymslunni, git status sýnir skjölin sem þú hefur breytt og hvað þarf enþá að verða klárt, git diff sýnir öll átök sem þurfa að vera leyst áður enn tveir ólíkar útgáfur af skjalageymslum geta sameinast. git checkout leyfir þér að búa til eða fara á milli ólíka útgáfur.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+3A: a) lítir á öll átökin, b) lítir á öll átökin á móti "staged" skjalinu, c) skoðar tvö ólík og munin á þeim áður enn þau sameinast.
