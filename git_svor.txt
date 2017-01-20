@@ -1,0 +1,7 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+1A: Þau leyfa þér að búa til skjöl, líta á skjöl í skránni sem þú ert í og breytir hvaða skrá þú ert í. pwd sýnir hvað er leiðin til skránna sem þú ert í frá rótinni
