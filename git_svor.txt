@@ -23,3 +23,6 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 4A: Gerir þig kleyft að auðveldlega ná allar útgáður af einhverri git skjalageymslu.
+
+5. Hverjir eru helstu kostir við að nota GIT?
+5A: Greinar eru eitt að bestu kostirnar, og það er líka 'dagbókin' getur ekki verið breytt svo allir geta vitað hvað aðrir hafi gert í github verkefni. GIT er líka open source.
