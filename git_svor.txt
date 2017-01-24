@@ -37,4 +37,6 @@
 8a: Þegar þú þarf þína eigin útgáfu af repository skjölin fyrir þína eigin notkun eða til að nota merge skipunina eftir að uppfæra branchið.
 
 9.	Hver fann upp GIT?
-9A: Linus Torvalds gerði GIT, enn ekki github.
+9A: Linus Torvalds gerði GIT, enn ekki "github" 
+
+10.	Hvar er GIT helst notað?
