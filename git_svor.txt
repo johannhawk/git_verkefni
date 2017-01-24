@@ -40,3 +40,4 @@
 9A: Linus Torvalds gerði GIT, enn ekki "github" 
 
 10.	Hvar er GIT helst notað?
+10A: Það hjálpar fólk að vinna saman, og git er ekki bara fyrir forritun, stærðfræðingar geta deilt glósur og flokka þau, maður getur sett forrit og skjöl á sinn eigin repository fyrir persónulega notkun.
