@@ -32,3 +32,6 @@
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 7A: Repository (AKA: git directory) er staðurinn þar sem GIT geymir gögnin á netinnu, working directory er staðurinn sem þú gerir breytingar á gögnin á tölvunni þinni. Staging Area setur nýju gögnin frá working directory og mun færa þá til Repository með commit
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+8a: Þegar þú þarf þína eigin útgáfu af repository skjölin fyrir þína eigin notkun eða til að nota merge skipunina eftir að uppfæra branchið.
