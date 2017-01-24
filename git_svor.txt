@@ -1,4 +1,4 @@
-1. Hvað gera eftirfarandi Linux skipanir?
+﻿1. Hvað gera eftirfarandi Linux skipanir?
 	cd
 	cd ~
 	ls
@@ -29,3 +29,6 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 6A: Ég finnst ég þarf ekki spá í að breyta hvað þarf commit eða ekki, þótt það sé bara smá texta leiðrétting.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+7A: Repository (AKA: git directory) er staðurinn þar sem GIT geymir gögnin á netinnu, working directory er staðurinn sem þú gerir breytingar á gögnin á tölvunni þinni. Staging Area setur nýju gögnin frá working directory og mun færa þá til Repository með commit
